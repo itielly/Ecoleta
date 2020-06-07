@@ -1,4 +1,4 @@
 # Ecoleta
 Projeto desenvolvido na Next Level Week 1.0 que tem o intuito de conectar locais/mercados que coletam resíduos de reciclagem com pessoas que estão dispostas a colaborar.
 
-<img src="mobile/assets/ecoleta.png" height=500 width=400> 
+<img src="mobile/assets/ecoleta.png" height=500 width=500> 
