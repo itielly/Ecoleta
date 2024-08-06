@@ -1,8 +1,6 @@
 # Ecoleta
 ### Projeto desenvolvido na Next Level Week 1.0 que tem o intuito de conectar locais/mercados que coletam resíduos de reciclagem com pessoas que estão dispostas a colaborar.
 
-<img src="mobile/assets/ecoleta.png" height=400 width=550> 
-
 ### O projeto contém front web, mobile e back.
 
 ### Instalação de dependências:
@@ -12,3 +10,5 @@
 
 ### Rodar o projeto:
 - ```npm start```
+
+<img src="mobile/assets/ecoleta.png" height=500 width=1050> 
